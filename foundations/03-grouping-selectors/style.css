@@ -1,0 +1,13 @@
+.happy {
+   background-color: black;
+   color: white;
+}
+
+.selfish {
+   background-color: yellow;
+}
+
+.happy, .selfish {
+   font-size: 28px;
+   font-family: Helvetica, Times, sans-serif;
+}
